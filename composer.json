@@ -1,0 +1,21 @@
+{
+    "name": "khurshed/hello-world",
+    "description": "test composer project",
+    "type": "test",
+    "license": "no",
+    "authors": [
+        {
+            "name": "Khurshed",
+            "email": "khurshed@t9l.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+             "php": ">=5.6"
+    },
+    "autoload" :{
+     "psr-0" :{
+        "HelloWorld": "src/"
+        }
+    }
+}
