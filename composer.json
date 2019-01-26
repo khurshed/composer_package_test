@@ -1,8 +1,6 @@
 {
     "name": "khurshed/hello-world",
     "description": "test composer project",
-    "type": "test",
-    "license": "no",
     "authors": [
         {
             "name": "Khurshed",
